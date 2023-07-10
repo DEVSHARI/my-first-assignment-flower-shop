@@ -205,6 +205,37 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
 }
-span{
+
+span {
     color: #E55473;
+}
+
+/* instagram section style */
+.instagram-text-container {
+    text-align: center;
+}
+
+.instagram-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+.instagram-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+
+.instagram-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.instagram-img{
+    width: 250px;
+    margin-bottom: 80px;
 }
