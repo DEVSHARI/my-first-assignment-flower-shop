@@ -30,7 +30,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 81px 200px 0px 200px;
+    padding: 60px 200px 0px 200px;
 }
 
 .banner-container {
@@ -38,7 +38,8 @@ body {
 }
 
 .banner .banner-img {
-    width: 500px;
+    width: 474px;
+    padding-top: 0px;
 }
 
 .banner-title {
@@ -59,7 +60,7 @@ body {
 /* feature section style */
 .feature-text-container {
     text-align: center;
-    margin-top: 130px;
+    margin-top: 120px;
     margin-bottom: 48px;
 }
 
@@ -171,7 +172,7 @@ body {
     margin-top: 10px;
 }
 
-/* occasion section start */
+/* occasion section style */
 .occasions {
     background-color: #f9f9f9;
     padding: 40px;
